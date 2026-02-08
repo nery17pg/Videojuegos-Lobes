@@ -21,7 +21,8 @@ Siendo honesta, entré por mis amistades, sin embargo, me gusta mucho pensar que
 
 
 ##### **Mi foto**
-<img src="miFoto.jpg" width="150">
+<img src="miFoto.jpg" width="200">
+
 
 
 
