@@ -11,13 +11,14 @@ Este repositorio será para registrar nuestros avances y ver quién es el respon
 - Tecnologías web (frontend y backend)
 - Accesibilidad y diseño centrado en el usuario
 - Innovación tecnológica con impacto social
+- Dibujo y pintura
 
 ## Carpetas personales del equipo ⋆⭒˚.⋆
 Aquí estará la chamba de cada uno, todos se harán responsables de sí mismos.
 - **Johnston Navarro Karol Daniela**
   𐙚 [Carpeta personal](JohnstonKarol)
 - **Muñoz Rosales Mayte**
-  𐙚 [Carpeta personal](nombrecarpeta)
+  𐙚 [Carpeta personal](MuñozMayte)
 - **Pérez González Nereyda Celestina**
   𐙚 [Carpeta personal](PérezNereyda)
 - **Quintero Silva Jatziri Montserrat**
