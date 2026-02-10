@@ -1,3 +1,5 @@
+#ACTIVIDAD 2 - Reflexión Personal
+
 ## Intereses y experiencias previas
 
 Me interesa la programación y el desarrollo de aplicaciones.
