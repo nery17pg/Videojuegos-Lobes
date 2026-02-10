@@ -14,4 +14,5 @@ Significa aprender a transformar una idea en algo jugable, significa experimenta
 Quiero participar en el proceso creativo, proponer ideas y al mismo tiempo aprender a llevarlas a la práctica usando herramientas y conceptos que veamos en clase. 
 
 **Foto de mí**
+
 <img src="MiFoto.jpeg" width="200">
