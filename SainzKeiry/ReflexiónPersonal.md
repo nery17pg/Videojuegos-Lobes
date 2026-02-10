@@ -1,3 +1,5 @@
+**ACTIVIDAD 2: REFLEXIÓN PERSONAL.**
+
 **Reflexión Personal**
 
 **Tus intereses y experiencias previas relacionadas con videojuegos o desarrollo.**
