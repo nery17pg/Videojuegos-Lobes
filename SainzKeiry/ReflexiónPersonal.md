@@ -1,3 +1,5 @@
+#####**Reflexión Personal**
+
 #####**Tus intereses y experiencias previas relacionadas con videojuegos o desarrollo.**
 Desde hace ya varios años me han interesado mucho los videojuegos, tanto como forma de entretenimiento como por lo que hay detrás de ellos. He jugado distintos tipos de juegos y eso me despertó curiosidad por cómo se crean: las mecánicas, los niveles, las historias y la programación que hace que todo funcione.
 En cuanto al desarrollo, mi experiencia en videojuegos todavía es básica, pero tengo interés en aprender más sobre su desarrollo. Esta materia es de mucho interés para mí, ya que, representa una oportunidad para empezar a convertir ese interés en algo más práctico y concreto.
