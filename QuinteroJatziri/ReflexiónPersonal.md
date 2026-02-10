@@ -19,4 +19,4 @@ Como apenas estoy empezando en esta materia, lo veo como algo nuevo que quiero a
 Me imagino aprendiendo y participando activamente en el diseño del juego, proponiendo ideas y ayudando a que el juego funcione correctamente.
 También quiero aprender a pensar más en el usuario, enfocarme en la accesibilidad y trabajar en equipo durante el curso.
 
-<img src="QuinteroJatziri/foto.jpg" width="200">
+<img src="foto.jpg" width="200">
