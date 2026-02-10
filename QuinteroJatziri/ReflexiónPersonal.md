@@ -1,4 +1,4 @@
-#ACTIVIDAD 2 - Reflexión Personal
+# ACTIVIDAD 2 - Reflexión Personal
 
 ## Intereses y experiencias previas
 
