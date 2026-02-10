@@ -3,17 +3,17 @@
 ## ¿Cómo se clasifica el juego?
 Usando una forma de etiquetado tradicional, se reduce a un RPG de aventura. Sin embargo, se mencionaba bastante que esta es una manera bastante inestable de clasificar un juego. Me agradó bastante la clasificación por facetas mencionada en el artículo de Clarke, es una manera mucho más precisa y eficiente de categorizar los videojuegos, ya que hoy en día es muy raro ver un juego que siga el molde de un solo género a la perfección. Guiandome de la estructura facética mencionada, categorizaría Project Zomboid de la siguiente manera:
 
-Gameplay              -        Survival Horror
-Style                 -        Sandbox/Mundo abierto
-Purpose               -        Entretenimiento
-Target Audience       -        Adultos
-Presentation          -        2.5 D (Combinación de 2D y 3D), Isométrico
-Temporal Aspect       -        Real time
-Artistic Style        -        Pixel art
-Point of View         -        Tercera persona
-Setting               -        Post apocalíptico, Zombies
-Mood/Affect           -        Tensión, Terror
-Type of Ending        -        Infinito
+- Gameplay              _       Survival Horror
+- Style                 _       Sandbox/Mundo abierto
+- Purpose               _       Entretenimiento
+- Target Audience       _       Adultos
+- Presentation          _       2.5 D (Combinación de 2D y 3D), Isométrico
+- Temporal Aspect       _       Real time
+- Artistic Style        _       Pixel art
+- Point of View         _       Tercera persona
+- Setting               _       Post apocalíptico, Zombies
+- Mood/Affect           _       Tensión, Terror
+- Type of Ending        _       Infinito
 
 ## ¿Qué mezcla o rompe géneros?
 A decir verdad mezcla varios géneros: RPG, Survival y Sandbox. Creo que en general es una mezcla bastante buena, ya que el resultado es un juego (que creo también entra en la categoría de simulación) que te permite interactuar de una forma muy libre con tu entorno, a diferencia de juegos por ejemplo Outlast que también es un survival de terror, realmente no se puede hacer mucho más que correr, pero tampoco es como Resident Evil que tienes armas de fuego desde el inicio y puedes defenderte a diestra y siniestra, claramente son dos juegos muuy diferentes a PZ, pero creo que es por eso que me gusta que sea una mezcla de estos géneros, ya que me deja elegir si quiero deshacerme de los zombies que me encuentre por mi camino, o si al contrario trato de actuar con sigilo para no tener un enfrentamiento directo.
