@@ -1,6 +1,5 @@
 # Actividad 6. Propuesta conceptual de videojuego
 ---
-
 ## Concepto 
 El jugador despierta encerrado en un hospital psiquiátrico abandonado. No sabe cómo llegó ahí, pero pronto descubre que el lugar está habitado por fantasmas que intentan asesinarlo.  
 Para sobrevivir, deberá encontrar la forma de escapar antes de convertirse en un espíritu más atrapado en el hospital.
