@@ -28,7 +28,7 @@ Sobrevivir al turno completo de vigilancia (8 horas) sin romper las reglas impue
 6. El velador tiene 30 minutos para salir y comprar cena en la tienda más cercana, no debe exceder más de este tiempo fuera del cementerio.
 7. El velador debe ingresar puntual a su turno que es a las 12am y salir a las 8am.
 
-*Reglas de supervivencia*
+*Reglas de supervivencia:*
 
 1. Si ves una figura de pie entre las tumbas, no te acerques; aléjate sin correr.
 2. Si una estatua cambia de posición, evita darle la espalda hasta salir del área.
