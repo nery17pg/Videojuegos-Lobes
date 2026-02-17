@@ -54,3 +54,11 @@ El jugador experimentará miedo psicológico más que sustos directos. La mecán
 **Justifica la coherencia del diseño.**
 
 *Explica cómo los elementos formales se relacionan entre sí (MDA).*
+
+En las mecánicas: Memorización de reglas, exploración, gestión del tiempo, identificación de anomalías.
+
+Dinámicas: Tensión al patrullar, duda antes de actuar, aprendizaje mediante prueba y error, aumento progresivo de dificultad.
+
+Estéticas: Miedo, estrés, inseguridad, alivio al sobrevivir.
+
+Las mecánicas generan dinámicas de incertidumbre, y estas producen la experiencia emocional de terror.
