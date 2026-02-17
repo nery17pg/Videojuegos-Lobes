@@ -23,8 +23,7 @@ Este modelo me hizo ver que la experiencia está diseñada estratégicamente med
 
 ---
 
- que estos modelos pueden aplicarse directamente al momento de diseñar un videojuego. Por ejemplo:
-
+Considero que estos modelos pueden aplicarse directamente al momento de diseñar un videojuego. Por ejemplo:
 - Planear cómo se enseñarán las mecánicas desde el inicio.
 - Diseñar una curva de dificultad.
 - Definir recompensas claras que mantengan la motivación.
